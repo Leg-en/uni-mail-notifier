@@ -1,0 +1,3 @@
+python-dotenv==1.0.0
+# playsound==1.3.0  # Problematisch auf Linux ohne GUI
+plyer==2.1  # Optional: für Desktop-Benachrichtigungen
